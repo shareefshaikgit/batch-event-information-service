@@ -1,7 +1,7 @@
-package com.raju.event.information.job.reader;
+package com.shar.event.information.job.reader;
 
-import com.raju.event.information.entity.EventInformation;
-import com.raju.event.information.properties.ExcelFileProperties;
+import com.shar.event.information.entity.EventInformation;
+import com.shar.event.information.properties.ExcelFileProperties;
 import lombok.AllArgsConstructor;
 import org.springframework.batch.item.ItemStreamReader;
 import org.springframework.batch.item.excel.RowMapper;

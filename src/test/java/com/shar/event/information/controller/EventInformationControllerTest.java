@@ -1,4 +1,4 @@
-package com.raju.event.information.controller;
+package com.shar.event.information.controller;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;

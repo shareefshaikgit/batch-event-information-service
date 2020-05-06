@@ -1,4 +1,4 @@
-package com.raju.event.information.entity;
+package com.shar.event.information.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

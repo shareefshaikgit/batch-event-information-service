@@ -1,4 +1,4 @@
-package com.raju.event.information;
+package com.shar.event.information;
 
 import org.springframework.batch.core.configuration.annotation.EnableBatchProcessing;
 import org.springframework.boot.SpringApplication;

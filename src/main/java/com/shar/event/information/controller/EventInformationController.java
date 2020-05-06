@@ -1,4 +1,4 @@
-package com.raju.event.information.controller;
+package com.shar.event.information.controller;
 
 import lombok.AllArgsConstructor;
 import org.springframework.batch.core.*;

@@ -1,6 +1,6 @@
-package com.raju.event.information.job.tasklet;
+package com.shar.event.information.job.tasklet;
 
-import com.raju.event.information.properties.ExcelFileProperties;
+import com.shar.event.information.properties.ExcelFileProperties;
 import lombok.AllArgsConstructor;
 import org.springframework.batch.core.StepContribution;
 import org.springframework.batch.core.scope.context.ChunkContext;

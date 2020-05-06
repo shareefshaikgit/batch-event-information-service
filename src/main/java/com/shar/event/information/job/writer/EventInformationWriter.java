@@ -1,7 +1,7 @@
-package com.raju.event.information.job.writer;
+package com.shar.event.information.job.writer;
 
-import com.raju.event.information.entity.EventInformation;
-import com.raju.event.information.repository.EventInformationRepository;
+import com.shar.event.information.entity.EventInformation;
+import com.shar.event.information.repository.EventInformationRepository;
 import lombok.AllArgsConstructor;
 import org.springframework.batch.item.ItemWriter;
 import org.springframework.stereotype.Component;

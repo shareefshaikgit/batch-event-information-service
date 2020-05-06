@@ -1,4 +1,4 @@
-package com.raju.event.information.properties;
+package com.shar.event.information.properties;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

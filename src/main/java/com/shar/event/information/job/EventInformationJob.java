@@ -1,7 +1,7 @@
-package com.raju.event.information.job;
+package com.shar.event.information.job;
 
-import com.raju.event.information.entity.EventInformation;
-import com.raju.event.information.job.tasklet.FileMoveTasklet;
+import com.shar.event.information.entity.EventInformation;
+import com.shar.event.information.job.tasklet.FileMoveTasklet;
 import lombok.AllArgsConstructor;
 import org.springframework.batch.core.Job;
 import org.springframework.batch.core.Step;
